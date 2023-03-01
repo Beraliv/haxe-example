@@ -1,0 +1,13 @@
+{
+  "name": "haxe-example",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "scripts": {},
+  "engines": {
+    "node": ">=10 <15",
+    "npm": ">=6 <7"
+  },
+  "dependencies": {
+    "haxe": "5.2.1"
+  }
+}
